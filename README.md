@@ -1,5 +1,5 @@
 # GY6
-## Mimninet
+## Mininet
 
 > tetszőleges mennyiségő `host`ot, `switch`et, `router`t lehet beállítani amiben kapunk egy virtuális hálózatot
 
